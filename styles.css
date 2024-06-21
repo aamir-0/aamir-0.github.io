@@ -1,0 +1,27 @@
+body{
+    background-color:#244855;
+    color:#FBE9D0;
+}
+h1,p{display:flex;
+justify-content:center;
+font-family:Helvetica;
+}
+#img-div {
+  display: grid;
+  place-items: center; 
+  height: 100vh;       
+}
+
+#image{
+ margin: auto;
+  display: block;     
+  max-width: 100%;    
+  height: auto;
+  
+
+}
+li{
+  font-family:Rockwell;
+  display:block;
+  padding:5px;
+}
